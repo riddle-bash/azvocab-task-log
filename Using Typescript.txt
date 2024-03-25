@@ -1,0 +1,5 @@
+The useState hook will re-use the value passed in as the intial state to determine what the type of value should be
+The useReducer hook is a more complex hook that takes a reducer function and an intial state
+The useContext hook is a technique for passing data down the component tree without having to pass drops through components
+The useMemo hook will create/re-access a memorized value from a function call, re-running the function only when the dependencies passed as the 2nd parameter are changed
+The useCallback provide a stable reference to a function as long as the dependencies passed into the second parameter are the same

@@ -1,0 +1,17 @@
+1. object (word, def_vi, def_en, class_en)
+2. interface (progression bar, question title, definition, chosen word, revealed word, scrambled word, toolbar)
+3. interact function (handleScramble, handlePick, handleUnpick, handleShowHint, handleNext, details on hover)
+4. logic (checkHint, checkComparision, checkOrder)
+5. state requirement: 
+correctWord - String, 
+scrambledWord - Char array, 
+choseWord - Char array,
+revealedWord - Char array, 
+hintNumbers - int,
+isSubmited - boolean,
+6. Class
+			Game
+	__________________|________________________
+	InfoBox		UnscrambleBox		Toolbars
+	|		|			|
+	Object		SquareButton		Button			 

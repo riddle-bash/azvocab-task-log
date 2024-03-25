@@ -1,0 +1,5 @@
+1.Sua loi shuffle word trong pdf
+
+explore/[collectionId]/[setId]/index => MyDocument => ArrangeQuestion => shuffleString()
+
+2. Sua warning invalid '' string child outside

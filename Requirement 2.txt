@@ -1,0 +1,8 @@
+Hien thi cac nghia khac cua tu tieng anh
+Trong do: entry (loai tu)
+id (loai tu + stt dinh nghia)
+pos(loai tu viet tat)
+defs (list cac dinh nghia)
+
+[id].jsx => DefinitionDetail => DetailDef + RelatedWords + VocabListContaining =? DetailDef + RelatedWords + AlternativeDef
+

@@ -1,0 +1,2 @@
+abtraction
+sum, repeat(loops, iteratble), filter, map, count, reduce, forEach

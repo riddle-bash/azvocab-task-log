@@ -1,0 +1,35 @@
+React: Thinking in React
+
+Identify which one is your state?
+
+1. If its value doesn't change
+2. If it call from parent through props
+3. If it can be generated from original 
+
+Identify where your state should live
+
+1. Through common parent
+2. In some component above common parent
+3. If can't find suitable component, create a new component to hold the state
+
+Hooks are special function that let you "hook into" React.
+
+Final stradegy:
+
+1. Identify components that use state:
+Seach and check valid
+2. Find their common parent:
+FilterableProductTable
+3. Decide where the state lives:
+FilterableProductTable
+
+|--------------------------|
+|Seach:....................|
+|o Check invalid           |
+|--------------------------|
+| Name               Price |
+|          Fruits          |
+| Apple              $1    |
+|        Vegetables        |
+| Spinach            $2    |
+|--------------------------|
