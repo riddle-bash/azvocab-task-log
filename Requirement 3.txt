@@ -2,4 +2,4 @@
 
 explore/[collectionId]/[setId]/index => MyDocument => ArrangeQuestion => shuffleString()
 
-2. Sua warning invalid '' string child outside
+2. Sua warning invalid '' string child outside va warning invalid image extension
