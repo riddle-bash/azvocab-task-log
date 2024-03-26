@@ -1,3 +1,14 @@
 id: 20 {Có một số từ bị mất ảnh} (Do dev.azvocab không tìm thấy ảnh, nhưng azvocab.ai thì có)
 id: 23 {- Phần chấm ở giữa thay bằng dấu gạch thể hiện đúng số chữ cái trong từ
 - Khoảng cách rộng ra, một trang tối đa 7 từ}
+id: 26 {- Phần chấm ở giữa thay bằng dấu gạch thể hiện đúng số chữ cái trong từ
+- Khoảng cách rộng ra, một trang tối đa 10 từ}
+id: 28 {- Chưa có dòng Note dưới câu Instructions
+- Vẫn còn lỗi câu bị xuống dòng ở ngay sau chỗ điền từ}
+id: 31 {- Đáp án nhiễu vẫn chưa đúng theo yêu cầu} (Đã sửa đáp án có cùng loại từ, )
+id: 35 {- Với các cụm từ, chỉ đảo các chữ cái trong một từ, thay các ô trống này là khoảng trắng luôn} (Chưa bỏ khoảng trắng trong phần missing characters)
+id: 40 - 41 - 42 {Từ chưa được xáo trộn, numbering sai, từ chưa xáo trộn (bị lặp)}
+id: 44 {- Đánh STT sai}
+id: 45 {- Câu hỏi sai, bố cục quá gần nhau}
+id: 46 {- Bỏ gạch chân của từ trong box}
+id: 43
