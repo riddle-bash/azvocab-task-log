@@ -1,0 +1,3 @@
+id: 20 {Có một số từ bị mất ảnh} (Do dev.azvocab không tìm thấy ảnh, nhưng azvocab.ai thì có)
+id: 23 {- Phần chấm ở giữa thay bằng dấu gạch thể hiện đúng số chữ cái trong từ
+- Khoảng cách rộng ra, một trang tối đa 7 từ}
