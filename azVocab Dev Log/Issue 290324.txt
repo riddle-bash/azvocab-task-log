@@ -1,0 +1,3 @@
+1. Change local function to calculate progress and wordbook in dashboard to /util/v2
+2. Fix v2 calculate by number of entries to calculate by number of definitions
+3. Fix data on screen unchange when finish lesson 

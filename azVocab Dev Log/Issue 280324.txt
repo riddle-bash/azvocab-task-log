@@ -1,0 +1,3 @@
+1. Duplicate question between lessons
+2. Redundant random in lessons generator
+3. Add mother toungue filter in backend user-activity 
