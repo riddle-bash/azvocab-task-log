@@ -1,0 +1,2 @@
+1. Add infinite scroll for wordbook's word list
+2. Find old bug: User can still learn archived words

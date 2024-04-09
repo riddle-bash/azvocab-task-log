@@ -1,0 +1,13 @@
+1. Create content for share page
+Function:
+- Add single to wordbook
+- Add all to wordbook
+- Learn the shared set
+- Show flashcard of shared set
+Logic:
+- boolean openLearn
+- boolean openFlashcard
+- boolean openSignin
+- boolean openPricing
+- boolean isAlreadyInWordbook
+- boolean isWordbookLimitReached
